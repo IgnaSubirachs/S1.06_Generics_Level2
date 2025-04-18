@@ -1,4 +1,4 @@
-# Level 1 - Java Generics - Exercise 3
+# Level 2 - Java Generics - Exercise 1-2
 
 ## 📚 Table of Contents
 - [📄 Description - Exercise Statement](#-description---exercise-statement)
